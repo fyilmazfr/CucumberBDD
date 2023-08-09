@@ -1,0 +1,7 @@
+runners\TestRunner.class
+pages\HMCPage.class
+pages\EditorPage.class
+stepDefinitions\EditorStepdefinitions.class
+stepDefinitions\Hooks.class
+stepDefinitions\HMCStepDefinitions.class
+notlar\notlar.class
